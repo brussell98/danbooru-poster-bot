@@ -1,0 +1,11 @@
+{
+	"name": "danbooru-poster-bot",
+	"version": "1.0.0",
+	"description": "Reposts images from danbooru to Discord",
+	"main": "index.js",
+	"author": "Brussell",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"dayjs": "^1.10.4"
+	}
+}

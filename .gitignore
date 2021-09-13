@@ -1,0 +1,5 @@
+config.js
+pm2.json
+yarn.lock
+.vscode
+node_modules
